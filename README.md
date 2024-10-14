@@ -9,7 +9,7 @@ Mechanical design is the process of creating and optimizing machines, components
 Engineering for machines extends beyond just the design process, encompassing the development, testing, and maintenance of these devices. Mechanical engineers work on various machines, from small parts in electronics to large systems like engines and industrial machinery. The aim is to make these machines reliable, efficient, and suited to their intended applications. This requires a deep understanding of thermodynamics, fluid mechanics, and control systems, as these principles govern how machines operate and interact with their surroundings. The role of engineers is crucial in advancing machine technology, as they constantly work to enhance performance, reduce environmental impact, and ensure that machines comply with safety standards and regulatory requirements.
 
 #
-###
+### Sourceduty Machines
 
 Sourceduty’s work in mechanical design and engineering spans a range of innovative projects focused on practical applications of physical computation and sustainable machine design. One notable project, Material Computation, explores the concept of using mechanical and electromechanical systems for computation, leveraging materials' physical properties to perform calculations naturally. This involves breaking down complex engineering problems into manageable parts, guiding users in choosing the right materials and design approaches for creating functional machines. This approach is rooted in a deep understanding of mechanics and material science, which enables users to build devices where physical interactions—rather than purely digital circuits—are integral to computation, allowing for new, energy-efficient ways of processing information in tangible systems.
 
