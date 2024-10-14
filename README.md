@@ -45,6 +45,10 @@ Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">se
 [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
 <br>
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
+<br>
+[Material Age Tool](https://github.com/sourceduty/Material_Age_Tool)
+<br>
+[Material Computation](https://github.com/sourceduty/Material_Computation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
