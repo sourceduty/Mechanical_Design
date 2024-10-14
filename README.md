@@ -35,6 +35,16 @@ Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">se
 [Vending Recycler](https://github.com/sourceduty/Vending_Recycler)
 <br>
 [Automated Locations](https://github.com/sourceduty/Automated_Locations)
+<br>
+[3D Printing](https://github.com/sourceduty/3D_Printing)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
+<br>
+[Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
