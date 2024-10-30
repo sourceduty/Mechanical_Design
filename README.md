@@ -19,6 +19,8 @@ Another key project by Sourceduty is the Vending Recycler, which merges recyclin
 ![Dirt Blower](https://github.com/user-attachments/assets/c42773cd-4328-47df-b859-0809bb2a4afa)
 #
 ![Gears](https://github.com/user-attachments/assets/b97f6a92-64a0-4ece-b582-59b1404496d5)
+#
+![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
 
 
 #
