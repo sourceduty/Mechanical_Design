@@ -49,6 +49,8 @@ Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">se
 [Material Age Tool](https://github.com/sourceduty/Material_Age_Tool)
 <br>
 [Material Computation](https://github.com/sourceduty/Material_Computation)
+<br>
+[Gold](https://github.com/sourceduty/Gold)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
