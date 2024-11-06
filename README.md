@@ -21,7 +21,12 @@ Another key project by Sourceduty is the Vending Recycler, which merges recyclin
 ![Gears](https://github.com/user-attachments/assets/b97f6a92-64a0-4ece-b582-59b1404496d5)
 #
 ![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
+#
+![Beach Cleaning](https://github.com/user-attachments/assets/462117f3-c4c9-4fdd-8b7f-4d9d0c2f3f0e)
 
+#
+
+Alex: "*I really like modifying and engineering machines and vehicles.*"
 
 #
 Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
