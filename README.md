@@ -1,6 +1,6 @@
 ![Scrap Metal Shredder Skid Steer Concept](https://github.com/user-attachments/assets/6d622f06-7b50-4546-921b-c4ad41037e13)
 
-> Mechanical design and engineering for machines, vehicles and systems.
+> Mechanical design and engineering for machines, vehicles, and systems.
 
 #
 
