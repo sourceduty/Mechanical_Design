@@ -19,6 +19,13 @@ Sourceduty’s work in mechanical design and engineering spans a range of innova
 Another key project by Sourceduty is the Vending Recycler, which merges recycling with vending machine technology to encourage sustainable practices. This machine allows users to deposit empty plastic bottles and aluminum cans, automatically sorting and processing these items for recycling. With features such as an incentive-based system, where users receive tokens for their recycling contributions, and an energy-efficient design, the Vending Recycler minimizes environmental impact while promoting user engagement. This innovative machine also highlights Sourceduty's focus on manufacturing methods that prioritize sustainable materials and efficient energy use, aligning with broader goals to reduce waste and close the loop in product lifecycles.
 
 #
+### Microcontroller Machines
+
+Microcontroller boards, such as Arduino, ESP32, and Raspberry Pi, are widely used in hobbyist and DIY machine control projects due to their affordability, flexibility, and ease of use. These boards allow users to control a variety of machines, from simple devices like automated blinds and lights to more complex systems such as robotic arms and CNC (Computer Numerical Control) machines. With the help of these microcontrollers, users can build custom controllers for 3D printers, motorized vehicles, or home automation systems, often incorporating sensors and actuators to respond to environmental inputs. The programming is accessible for beginners yet robust enough for complex tasks, making microcontrollers a popular choice for machine control in personal projects, educational environments, and maker spaces.
+
+Projects utilizing microcontroller-based machine control often involve a blend of mechanics, electronics, and software, encouraging users to explore interdisciplinary skills. For example, an Arduino board can control the movements of a robotic arm in a step-by-step process, where users can program the board to perform tasks like sorting objects or drawing patterns. Similarly, a Raspberry Pi, with its more advanced processing capabilities, can control machines that require more computational power, such as autonomous robots that navigate spaces based on real-time data from sensors. These projects provide hands-on learning in machine control, helping users understand how machines operate and are controlled, without the need for professional-grade, factory-level equipment.
+
+#
 ![Dirt Blower](https://github.com/user-attachments/assets/c42773cd-4328-47df-b859-0809bb2a4afa)
 #
 ![Oragami Machine](https://github.com/user-attachments/assets/5f34eac9-f1b7-4706-84f4-ccd2187cc6af)
