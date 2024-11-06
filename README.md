@@ -25,6 +25,8 @@ Another key project by Sourceduty is the Vending Recycler, which merges recyclin
 ![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
 #
 ![Beach Cleaning](https://github.com/user-attachments/assets/462117f3-c4c9-4fdd-8b7f-4d9d0c2f3f0e)
+#
+![Machine](https://github.com/user-attachments/assets/d5a2bdc6-1cec-47bc-a807-3a941c494360)
 
 #
 
