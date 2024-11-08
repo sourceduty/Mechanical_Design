@@ -40,7 +40,7 @@ Projects utilizing microcontroller-based machine control often involve a blend o
 
 > Alex: "*I really like modifying and engineering machines or vehicles.*"
 
-> "*Beneath every transportation system lies resilient groundwork, ensuring that what supports us remains strong long after the surface fades.*"
+> "*Beneath every mechanical system lies resilient groundwork, ensuring that what supports us remains strong long after the surface fades.*"
 
 #
 Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
