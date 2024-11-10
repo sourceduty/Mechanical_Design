@@ -26,6 +26,15 @@ Microcontroller boards, such as Arduino, ESP32, and Raspberry Pi, are widely use
 Projects utilizing microcontroller-based machine control often involve a blend of mechanics, electronics, and software, encouraging users to explore interdisciplinary skills. For example, an Arduino board can control the movements of a robotic arm in a step-by-step process, where users can program the board to perform tasks like sorting objects or drawing patterns. Similarly, a Raspberry Pi, with its more advanced processing capabilities, can control machines that require more computational power, such as autonomous robots that navigate spaces based on real-time data from sensors. These projects provide hands-on learning in machine control, helping users understand how machines operate and are controlled, without the need for professional-grade, factory-level equipment.
 
 #
+### Mechanical Lifespan
+
+![Scrap](https://github.com/user-attachments/assets/d2df5ebf-3ead-40ff-88d0-900716efef67)
+
+The mechanical lifespan of machines is calculated based on a combination of factors, including wear and tear of components, operational hours, and maintenance schedules. Manufacturers typically estimate lifespan using standard metrics like mean time to failure (MTTF) or mean time between failures (MTBF). These metrics consider stress levels, material durability, and design tolerances. Machines operating in harsh environments or with high-intensity loads tend to have reduced lifespans due to accelerated degradation. Engineers often rely on data from stress tests, simulations, and historical usage patterns to predict when key components may fail, ensuring timely interventions through maintenance or replacements to extend operational longevity.
+
+For road vehicles, mechanical lifespan is measured in terms of mileage or operational years, influenced by factors like driving habits, maintenance frequency, and environmental conditions. Engine wear, suspension fatigue, and drivetrain efficiency are critical determinants. Regular servicing, including oil changes, tire rotations, and inspections, significantly affects longevity. Modern vehicles are equipped with onboard diagnostic systems that monitor performance and alert owners to potential issues, which aids in prolonging their functional lifespan. In fleet management or commercial use, lifespan is often calculated based on the vehicle's economic viability, balancing repair costs against operational efficiency and replacement value.
+
+#
 ![Dirt Blower](https://github.com/user-attachments/assets/c42773cd-4328-47df-b859-0809bb2a4afa)
 #
 ![Oragami Machine](https://github.com/user-attachments/assets/5f34eac9-f1b7-4706-84f4-ccd2187cc6af)
