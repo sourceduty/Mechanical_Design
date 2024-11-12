@@ -53,6 +53,17 @@ In synthetic biology, applying lifespan calculations akin to those used for pred
 Moreover, incorporating lifespan calculations into synthetic biology enables optimization of the design and operational parameters for biotechnological applications. By simulating and testing the degradation, repair mechanisms, and potential failure points, synthetic biologists can enhance the durability and efficiency of biological systems. For instance, the design of bio-sensors or metabolic pathways for industrial purposes can benefit from predictive models that account for the longevity and stability of the components involved. This methodology not only advances the field by fostering more reliable and robust synthetic systems but also underscores the interdisciplinary nature of synthetic biology, combining principles from engineering, biology, and computational sciences.
 
 #
+### Mechanical Wear
+
+![Mechanical](https://github.com/user-attachments/assets/459e493f-774f-4c3f-a7d0-0d0518b264e6)
+
+Wear and degradation resistance in materials is critical for both exposed and unexposed environments. For unexposed materials, alloys such as tool steel or ceramic composites exhibit remarkable resistance to wear. Tool steel, for example, is often used in engine components like camshafts and crankshafts, where high durability against friction is required. Ceramic composites, such as silicon carbide, are used in high-performance brake systems for their ability to endure intense heat and abrasion without degrading. In exposed environments, materials such as stainless steel, titanium alloys, and high-density polymers are favored. Stainless steel, for instance, is commonly used in exhaust systems due to its corrosion resistance, while polymers like polyurethane are found in protective seals and coatings to resist weathering and impact.
+
+Vehicle parts subjected to consistent stress and friction typically wear out the fastest. Brake pads, tires, and suspension components are prime examples. Brake pads degrade due to the intense friction generated during braking, while tires are worn down by continuous contact with road surfaces, influenced by driving habits, road conditions, and weather. Suspension components, such as bushings and ball joints, experience wear due to constant motion and exposure to road shocks. These parts are engineered for durability but are designed for periodic replacement due to their high-stress roles.
+
+In contrast, parts that endure minimal wear are typically stationary or less exposed to friction and environmental stressors. Examples include structural components like the vehicle's frame or body panels, especially if treated with rust-proof coatings. Additionally, interior elements such as dashboards or seat frames often last the vehicle's lifetime, as they are shielded from wear-intensive conditions. By using materials like aluminum or treated plastics for these parts, manufacturers ensure longevity without requiring frequent replacement.
+
+#
 ![Dirt Blower](https://github.com/user-attachments/assets/c42773cd-4328-47df-b859-0809bb2a4afa)
 #
 ![Oragami Machine](https://github.com/user-attachments/assets/5f34eac9-f1b7-4706-84f4-ccd2187cc6af)
