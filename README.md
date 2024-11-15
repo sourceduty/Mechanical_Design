@@ -44,6 +44,13 @@ The lifespan calculations for automated machines rely heavily on real-time data 
 For automated road vehicles, lifespan calculations can achieve a new level of granularity through real-time data recording and analysis. Unlike conventional vehicles, where manufacturers provide default lifespan estimates for assembled parts, automated vehicles can monitor individual components under varying driving conditions. By recording driving styles, environmental factors, and specific stressors on parts, automated cars can calculate wear dynamically and issue warnings for upcoming failures well in advance. For instance, aggressive cornering might increase suspension wear, or frequent braking on steep slopes might affect brake longevity. This data-driven approach enables automated vehicles to provide tailored maintenance schedules, improve safety by addressing potential failures early, and optimize overall vehicle lifespan for diverse driving scenarios.
 
 #
+### Meterials & Biomechanics
+
+![Mech](https://github.com/user-attachments/assets/9fcaca2f-3920-4c59-922c-6d1c1480d500)
+
+The mechanization of materials involves using mechanical systems, automation, and advanced technologies to enhance the efficiency, precision, and scalability of manipulating and applying physical substances. Similarly, the natural mechanization of humans is exemplified in biomechanics, where the body functions as a highly efficient biomechanical system. Muscles, tendons, and skeletal structures form levers and pulleys, enabling movement and force generation, while joints act as pivot points, and the nervous system coordinates actions with remarkable precision. This fusion of biological mechanics and control systems serves as inspiration for developing technologies like robotics and prosthetics, where the principles of biomechanics guide the design and functionality of mechanical systems, creating a bridge between organic and engineered mechanisms.
+
+#
 ### Biological Lifespans
 
 ![Bones](https://github.com/user-attachments/assets/391db45f-d725-46e9-b1db-84aed1f1527c)
