@@ -44,7 +44,7 @@ The lifespan calculations for automated machines rely heavily on real-time data 
 For automated road vehicles, lifespan calculations can achieve a new level of granularity through real-time data recording and analysis. Unlike conventional vehicles, where manufacturers provide default lifespan estimates for assembled parts, automated vehicles can monitor individual components under varying driving conditions. By recording driving styles, environmental factors, and specific stressors on parts, automated cars can calculate wear dynamically and issue warnings for upcoming failures well in advance. For instance, aggressive cornering might increase suspension wear, or frequent braking on steep slopes might affect brake longevity. This data-driven approach enables automated vehicles to provide tailored maintenance schedules, improve safety by addressing potential failures early, and optimize overall vehicle lifespan for diverse driving scenarios.
 
 #
-### Meterials & Biomechanics
+### Materials & Biomechanics
 
 ![Mech](https://github.com/user-attachments/assets/9fcaca2f-3920-4c59-922c-6d1c1480d500)
 
